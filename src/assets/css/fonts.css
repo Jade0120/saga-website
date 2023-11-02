@@ -5,6 +5,7 @@
   适配Windows, Mac, Android, iOS
   尽量使用系统默认字体
   accent可以考虑使用自定字体
+  macOS IOS windows androids 还有开源字体
   可以参考网站 http://jimyuan.github.io/blog/2014/12/02/cn-web-font-guide.html
   */
 :root {
