@@ -7,7 +7,7 @@
       <div class="right">
           <div class="right-title">联系方式 Contact information</div>
           <div class="way">Email：external-affairs@saga-xingguang.com</div>
-          <div class="way">Wechat: 13730835212(手机与微信同号)</div>
+          <div class="way">WeChat: 13730835212(手机与微信同号)</div>
           <div class="way"> WeChat official account (微信公众号)：星光SAGA</div>
       </div>
   </div>
