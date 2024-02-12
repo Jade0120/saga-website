@@ -7,10 +7,12 @@
   <TheValues></TheValues>
   <CallToActionCards></CallToActionCards>
   <TheAcknowledgments></TheAcknowledgments>
+  <TheNamelist></TheNamelist>
   <Footer></Footer>
 </template>
 
 <script setup>
+import TheNamelist from "@/components/HomePage/TheNamelist.vue";
 import MainNavigation from "@/components/MainNavigation.vue";
 import TheLanding from "@/components/HomePage/TheLanding.vue";
 import TheDataBanner from "@/components/HomePage/TheDataBanner.vue";
